@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="SampleFilePath_main" target="1.9" />
+      <module name="SampleFilePath_test" target="1.9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
