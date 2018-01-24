@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Exec {
     public static void main(String args[]){
-        String filename = "./data/sample.txt";
+        String filename = "./data/sample.txt"; //プロジェクトのトップディレクトリを基準とした相対パスで指定。
         String line;
         Scanner scanner;
 
